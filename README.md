@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="file:///C:/Users/yashb/Downloads/pash-blue.png" height="100px"/></a>
-
 
 ### Hi there👋,I'm Yash Boraste.
 
