@@ -1,16 +1,16 @@
-### Hi there👋,I'm Yash BOraste.
+### Hi there👋,I'm Yash Boraste.
 
 <!--
 **YashBoraste/YashBoraste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-=> 🔭 I’m currently working on Full Stack Developer
+=> 🔭 I’m currently working on React.js
 
-=> 🌱 I’m currently learning MERN Stack 
+=> 🌱 I’m currently learning Data structure and Algorithm 
 
 => 📫 How to reach me: yashboraste23@gmail.com
  
-## 🚀 Languages and Tools:
+## 👨‍💻 Languages and Tools:
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
