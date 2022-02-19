@@ -9,6 +9,12 @@
 => 🌱 I’m currently learning Data structure and Algorithm 
 
 => 📫 How to reach me: yashboraste23@gmail.com
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=YashBoraste">
+</a>
+<a href="https://github.com/YashBoraste?tab=followers"><img src="https://img.shields.io/github/followers/YashBoraste?label=Followers&style=social" alt="GitHub Badge"></a>
  
 ## 👨‍💻 Languages and Tools:
 <p align="left"> 
