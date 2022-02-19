@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 => 📫 How to reach me: yashboraste23@gmail.com
 -->
-[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/p/B_LXgD0Hzgx/)
+
