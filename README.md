@@ -50,7 +50,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/yash-boraste-a1a557213/?originalSubdomain=in"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/borasteyash"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://www.hackerrank.com/yashboraste23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashboraste23" height="30" width="40" /></a>
+<a href = "https://www.hackerrank.com/yashboraste23"><img src="https://icons8.com/icon/mT2bzIQRdfpR/hackerrank-is-a-technology-company-that-focuses-on-competitive-programming"/></a>
 </p>
 </p>
 
