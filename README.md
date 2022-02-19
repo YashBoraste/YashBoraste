@@ -1,3 +1,6 @@
+<a href="#"><img width="100%" height="auto" src="https://pikadev.fi/assets/code.svg" height="175px"/></a>
+
+
 ### Hi there👋,I'm Yash Boraste.
 
 <!--
