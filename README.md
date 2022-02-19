@@ -40,3 +40,17 @@
   <a href="https://github.com/YashBoraste/github-readme-stats"><img alt="YashBoraste Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBoraste&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  
+ <br/>
+<br/>
+
+
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/yash-boraste-a1a557213/?originalSubdomain=in"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/borasteyash"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.hackerrank.com/yashboraste23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashboraste23" height="30" width="40" /></a>
+</p>
+</p>
+
