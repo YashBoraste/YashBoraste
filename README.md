@@ -50,6 +50,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/yash-boraste-a1a557213/?originalSubdomain=in"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/borasteyash"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+ <a href = "https://instagram.com/its_me_yash07?utm_medium=copy_link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.hackerrank.com/yashboraste23"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>
 </p>
 </p>
