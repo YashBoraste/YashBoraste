@@ -6,7 +6,7 @@
 
 => 🔭 I’m currently working on React.js
 
-=> 🌱 I’m currently learning Data structure and Algorithm 
+=> 🌱 I’m currently learning Flutter
 
 => 📫 How to reach me: yashboraste23@gmail.com
 
